@@ -1,0 +1,5 @@
+.DS_Store
+.deps/
+.learneth/
+node_modules/
+artifacts/
